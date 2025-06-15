@@ -52,7 +52,7 @@ svm-chip-design/
 - Generates `chip_defect_data.csv` and `svm_metrics.txt` with model accuracy (~82%).
 
 ## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md) to add datasets, models, or visualizations.
+See [CONTRIBUTING.md](CONTRIBUTING.markdown) to add datasets, models, or visualizations.
 
 ## License
 MIT License. See [LICENSE](LICENSE).
